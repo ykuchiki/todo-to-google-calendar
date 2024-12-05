@@ -1,6 +1,6 @@
 {
-	"name": "todo-to-google-calendar",
-	"version": "1.0.0",
+	"name": "todo-google-calendar",
+	"version": "1.1.0",
 	"description": "Effortlessly sync your Obsidian Todo files with Google Calendar to stay organized and up-to-date.",
 	"main": "main.js",
 	"scripts": {
